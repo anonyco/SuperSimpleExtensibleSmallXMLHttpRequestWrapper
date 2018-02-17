@@ -7,7 +7,7 @@ The ULTIMATE super small, simple, light, fast, XMLHttpRequest wrapper. The docum
 
 Just simply put this into your `<head>` (or at least somewhere before the code that uses it).
 ```Html
-<script src="https://www.dropbox.com/s/y9muahvy3m8bsp6/superxhr.min.js?dl=1"></script>
+<script src="https://dl.dropboxusercontent.com/s/y9muahvy3m8bsp6/superxhr.min.js?dl=0"></script>
 ```
 
 #### From A Local Copy
