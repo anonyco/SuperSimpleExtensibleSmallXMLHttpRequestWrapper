@@ -20,7 +20,7 @@ Then, Super XHR JS will set `window.HTTP` to the XHRing function it creates.
 
 ### Documentation
 
-To use Super XHR JS, simply pass an object to `window.HTTP` with all the properties going to the XMLHttpRequest object, and some spcial properties listed below effecting the behavior.
+To use Super XHR JS, simply pass an object to `window.HTTP` with all the properties going to the XMLHttpRequest object, and some special properties listed below effecting the behavior.
 
 ```Javascript
 var XHRobj = HTTP({
