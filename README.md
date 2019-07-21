@@ -13,7 +13,7 @@ Just simply put this into your `<head>` (or at least somewhere before the code t
 #### From A Local Copy
 If the drop box link broke or you simply don't want to use dropbox, then you can download superxhr.min.js, place it in the same directory (folder) as your HTML file, and put this into your `<head>` (or at least somewhere before the code that uses it).
 ```Html
-<script src="highlighter.min.js"></script>
+<script src="superxhr.min.js"></script>
 ```
 
 Then, Super XHR JS will set `window.HTTP` to the XHRing function it creates.
