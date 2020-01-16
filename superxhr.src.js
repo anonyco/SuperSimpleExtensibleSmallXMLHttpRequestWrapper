@@ -6,7 +6,7 @@ HTTP = function(props){
 			props[k].forEach(request[k].apply.bind(request[k],request));
 		else
 			request[k] = props[k]
-		request.send(props.POST||{});
+	request.send(props.POST||{});
 	request.resend=function(url){request.open(props.METHOD||"GET", url||".", !props.SYNC, props.USER||null, props.PASSWORD||null);request.send(props.POST||{})};
 	return request;
 }
